@@ -1,4 +1,4 @@
-# Actions on Google: Silly Name Maker Sample
+This project started as: https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs
 
 This sample demonstrates an Actions on Google feature, parameters, for use on Google Assistant -- while using the [Node.js client library](https://github.com/actions-on-google/actions-on-google-nodejs) and deployed on [Cloud Functions for Firebase](https://firebase.google.com/docs/functions/).
 
